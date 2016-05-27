@@ -4,7 +4,7 @@
 ## Exercises
 
 * [Cooking data with PHP!](https://github.com/simplonco/Cooking-data-with-PHP)
-* [Challenges]((https://github.com/simplonco/php-challenges) _(Experimental)_
+* [Challenges](https://github.com/simplonco/php-challenges) _(Experimental)_
 
 ## Resources
 
