@@ -16,6 +16,7 @@
 * http://php.net/manual/en/index.php
 * https://learnxinyminutes.com/docs/php/
 * https://learnxinyminutes.com/docs/fr-fr/php/
+* https://docs.google.com/a/simplon.co/document/d/1RvkdTdjyl0Z6mY5cU-DV0y39BJNkgUC_Gwcb0KySmiI
 
 _To be continued.._
 
