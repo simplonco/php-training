@@ -1,7 +1,7 @@
 # PHP
 >_[Training](https://github.com/simplonco/training) / PHP_
 
-
+![PHP](php.png)
 
 ## Exercises
 
