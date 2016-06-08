@@ -16,7 +16,11 @@
 * http://php.net/manual/en/index.php
 * https://learnxinyminutes.com/docs/php/
 * https://learnxinyminutes.com/docs/fr-fr/php/
+
+### Google Docs
+
 * https://docs.google.com/a/simplon.co/document/d/1RvkdTdjyl0Z6mY5cU-DV0y39BJNkgUC_Gwcb0KySmiI
+* https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
 
 _To be continued.._
 
