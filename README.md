@@ -32,6 +32,13 @@
 * [How To Change Your PHP Settings](https://www.digitalocean.com/community/tutorials/how-to-change-your-php-settings-on-ubuntu-14-04) :uk:
 * [How to install PHPMyAdmin](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04) :uk:
 
+### OpenClassrooms
+
+* [Concevez votre site web avec PHP et MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) :fr:
+* [Programmez en orienté objet en PHP](https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php) :fr:
+* [Découvrez le framework PHP Laravel](https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel-1) :fr:
+* [Évoluez vers une architecture PHP professionnelle](https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle) :fr:
+
 ### Google Docs
 
 * https://docs.google.com/a/simplon.co/document/d/1RvkdTdjyl0Z6mY5cU-DV0y39BJNkgUC_Gwcb0KySmiI
