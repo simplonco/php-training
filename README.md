@@ -6,16 +6,17 @@
 ## Exercises
 
 * [Cooking data with PHP!](https://github.com/simplonco/Cooking-data-with-PHP)
+* [Send Mail Form](https://github.com/simplonco/php-send-mail-form)
 * [Challenges](https://github.com/simplonco/php-challenges) _(Experimental)_
 
 ## Resources
 
-* [PHP The Right Way](http://www.phptherightway.com/)
-* https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
-* https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04
-* http://php.net/manual/en/index.php
-* https://learnxinyminutes.com/docs/php/
-* https://learnxinyminutes.com/docs/fr-fr/php/
+* [PHP The Right Way](http://www.phptherightway.com/) :uk:
+* [How to install LAMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) :uk:
+* [How to install PHPMyAdmin](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04) :uk:
+* [PHP Official Manual](http://php.net/manual/en/index.php) :uk:
+* [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/) :uk:
+* [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/fr-fr/php/) :fr:
 
 ### Google Docs
 
