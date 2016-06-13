@@ -11,12 +11,26 @@
 
 ## Resources
 
-* [PHP Official Manual](http://php.net/manual/en/index.php) :uk:
+### Official Documentation
+
+* [The PHP Official Manual](http://php.net/manual/en/index.php) :uk:
+* [Le Manuel PHP Officiel](http://php.net/manual/fr/index.php) :fr:
+
+### Big Books
+
 * [PHP The Right Way](http://www.phptherightway.com/) :uk:
-* [How to install LAMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) :uk:
-* [How to install PHPMyAdmin](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04) :uk:
+
+### Learn X in Y minutes
+
 * [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/) :uk:
-* [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/fr-fr/php/) :fr:
+* [Apprendre PHP en Y minutes](https://learnxinyminutes.com/docs/fr-fr/php/) :fr:
+
+### Digital Ocean Tutorials
+
+* [How to install LAMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) :uk:
+* [How to install LLMP](https://www.digitalocean.com/community/tutorials/how-to-install-the-llmp-stack-linux-lighttpd-mysql-and-php-on-ubuntu-12-04) :uk:
+* [How To Change Your PHP Settings](https://www.digitalocean.com/community/tutorials/how-to-change-your-php-settings-on-ubuntu-14-04) :uk:
+* [How to install PHPMyAdmin](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04) :uk:
 
 ### Google Docs
 
