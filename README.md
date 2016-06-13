@@ -27,48 +27,6 @@ _To be continued.._
 
 ## Code snippets
 
-### `index.php`
-
-```php
-<?php
-if ($_POST['password'] != "cookie") { // => database
-    header('Location: form.html');
-} else {
-?>
-<!DOCTYPE>
-<html>
-    <head>
-        <meta charset="utf8" />
-        <title>PHP Test</title>
-    </head>
-    <body>
-        <h1>Welcome <?php echo $_POST['name']; ?>!</h1>
-    </body>
-</html>
-<?php
-}
-?>
-```
-
-### `form.html`
-
-```php
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf8"/>
-        <title>PHP Form Example</title>
-    </head>
-    <body>
-        <form action="index.php" method="POST">
-            <input name="name" type="text" />
-            <input name="password" type="password" />
-            <input value="login" type="submit" />
-        </form>
-    </body>
-</html>
-```
-
 ### PHP Setup :tada:!
 
 ```markdown
@@ -127,4 +85,46 @@ METHODS:
 
 https://www.google.fr/?q=cookie
 https://www.google.fr/?q=pizza
+```
+
+### `index.php`
+
+```php
+<?php
+if ($_POST['password'] != "cookie") { // => database
+    header('Location: form.html');
+} else {
+?>
+<!DOCTYPE>
+<html>
+    <head>
+        <meta charset="utf8" />
+        <title>PHP Test</title>
+    </head>
+    <body>
+        <h1>Welcome <?php echo $_POST['name']; ?>!</h1>
+    </body>
+</html>
+<?php
+}
+?>
+```
+
+### `form.html`
+
+```php
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf8"/>
+        <title>PHP Form Example</title>
+    </head>
+    <body>
+        <form action="index.php" method="POST">
+            <input name="name" type="text" />
+            <input name="password" type="password" />
+            <input value="login" type="submit" />
+        </form>
+    </body>
+</html>
 ```
