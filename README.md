@@ -6,7 +6,7 @@
 ## Exercises
 
 * [Cooking data with PHP!](https://github.com/simplonco/Cooking-data-with-PHP)
-* [Send Mail Form](https://github.com/simplonco/php-send-mail-form)
+* [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
 * [Challenges](https://github.com/simplonco/php-challenges) _(Experimental)_
 
 ## Resources
