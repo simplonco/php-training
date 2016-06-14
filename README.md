@@ -36,8 +36,14 @@
 
 * [Concevez votre site web avec PHP et MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) :fr:
 * [Programmez en orienté objet en PHP](https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php) :fr:
-* [Découvrez le framework PHP Laravel](https://openclassrooms.com/courses/decouvrez-le-framework-php-laravel-1) :fr:
-* [Évoluez vers une architecture PHP professionnelle](https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle) :fr:
+
+### SQL
+
+* http://sql.sh/
+
+### IDE
+
+* https://www.jetbrains.com/phpstorm/
 
 ### Google Docs
 
@@ -45,6 +51,9 @@
 * https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
 
 _To be continued.._
+
+http://www.lephpfacile.com/cours/
+
 
 ## Code snippets
 
