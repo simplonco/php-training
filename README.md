@@ -44,6 +44,7 @@
 ### IDE
 
 * https://www.jetbrains.com/phpstorm/
+* https://nuclide.io/
 
 ### Google Docs
 
