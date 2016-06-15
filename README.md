@@ -43,22 +43,21 @@
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) :sunglasses:
 * [Awesome Composer](https://github.com/jakoch/awesome-composer) :sunglasses:
 
-### IDE
+### IDEs
 
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
 * [Nuclide](https://nuclide.io/)
 
-### Google Docs
+### Google Docs, GitHub & Miscellanous (Work in Progress)
 
 * https://docs.google.com/a/simplon.co/document/d/1RvkdTdjyl0Z6mY5cU-DV0y39BJNkgUC_Gwcb0KySmiI
 * https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
+* https://github.com/simplonco/sql-first-steps
+* https://github.com/simplonco/symfony-training
+* http://www.lephpfacile.com/cours/
+* http://sql.sh/
 
 _To be continued.._
-
-http://www.lephpfacile.com/cours/
-
-http://sql.sh/
-
 
 ## Code snippets
 
