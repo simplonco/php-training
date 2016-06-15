@@ -5,7 +5,7 @@
 
 ## Exercises
 
-* [Introduction to programming (PHP)](https://github.com/simplonco/php-introduction)
+* [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
 * [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
