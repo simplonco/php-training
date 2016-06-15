@@ -38,14 +38,15 @@
 * [Concevez votre site web avec PHP et MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) :fr:
 * [Programmez en orienté objet en PHP](https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php) :fr:
 
-### SQL
+### Awesome lists
 
-* http://sql.sh/
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) :sunglasses:
+* [Awesome Composer](https://github.com/jakoch/awesome-composer) :sunglasses:
 
 ### IDE
 
-* https://www.jetbrains.com/phpstorm/
-* https://nuclide.io/
+* [PHPStorm](https://www.jetbrains.com/phpstorm/)
+* [Nuclide](https://nuclide.io/)
 
 ### Google Docs
 
@@ -55,6 +56,8 @@
 _To be continued.._
 
 http://www.lephpfacile.com/cours/
+
+http://sql.sh/
 
 
 ## Code snippets
