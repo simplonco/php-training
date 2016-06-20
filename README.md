@@ -68,7 +68,7 @@ _To be continued.._
 sudo apt-get install tasksel
 sudo tasksel install lamp-server
 # Fix a permission issue
-sudo chown -R simplonco:simplonco /var/www
+sudo chown -R $(whoami):$(whoami) /var/www
 ```
 
 ### Read apache2 logs
