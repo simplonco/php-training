@@ -63,12 +63,23 @@ _To be continued.._
 
 ### PHP Setup :tada:!
 
-```markdown
+```shell
 # Install LAMP
 sudo apt-get install tasksel
 sudo tasksel install lamp-server
 # Fix a permission issue
-sudo chown -R www-data:www-data /var/www
+sudo chown -R simplonco:simplonco /var/www
+```
+
+### Read apache2 logs
+
+```shell
+# Switch to root
+sudo su
+# Go in the apache2 logs folder
+cd /var/log/apache2/
+# Display all logs
+tail -f *.log
 ```
 
 ### What's mean LAMP?
