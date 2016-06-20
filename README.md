@@ -65,9 +65,8 @@ _To be continued.._
 
 ```shell
 # Install LAMP
-sudo apt-get install tasksel
+sudo apt-get install tasksel php
 sudo tasksel install lamp-server
-sudo apt-get install php5
 # Fix a permission issue
 sudo chown -R $(whoami):$(whoami) /var/www
 ```
