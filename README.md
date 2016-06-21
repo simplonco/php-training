@@ -54,6 +54,7 @@
 * https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
 * https://github.com/simplonco/sql-first-steps
 * https://github.com/simplonco/symfony-training
+* https://www.grafikart.fr/formations/php
 * http://www.lephpfacile.com/cours/
 * http://sql.sh/
 
