@@ -67,7 +67,7 @@ _To be continued.._
 # Install LAMP
 sudo apt-get install tasksel php
 sudo tasksel install lamp-server
-# Fix a permission issue
+# Fix permission issues
 sudo adduser $(whoami) www-data
 sudo chown -R www-data:www-data /var/www
 sudo chmod -R g+w /var/www/
