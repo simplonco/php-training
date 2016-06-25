@@ -64,6 +64,8 @@
 * http://www.lephpfacile.com/cours/
 * http://sql.sh/
 
+http://www.fran6art.com/wordpress/creez-votre-theme-wordpress-de-a-a-z/
+
 _To be continued.._
 
 ## Code snippets
