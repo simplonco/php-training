@@ -83,7 +83,8 @@ sudo tasksel install lamp-server
 # Fix permission issues
 sudo adduser $(whoami) www-data
 sudo chown -R www-data:www-data /var/www
-sudo chmod -R g+w /var/www/
+sudo chmod -R g+rwx /var/www/
+# Finally: don't forget to login / logout
 ```
 
 ### Read apache2 logs
