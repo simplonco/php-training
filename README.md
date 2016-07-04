@@ -10,6 +10,10 @@
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
+## Project
+
+* [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
+
 ## Resources
 
 ### Official Documentation
@@ -38,6 +42,12 @@
 * [Concevez votre site web avec PHP et MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) :fr:
 * [Programmez en orienté objet en PHP](https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php) :fr:
 
+### POO
+
+* http://creersonsiteweb.net/page-php-programmation-orientee-objet
+* http://www.bestcours.com/525-pdf-php-programmation-objet-telecharger
+* http://www.tutorialspoint.com/php/php_object_oriented.htm
+
 ### Awesome lists
 
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) :sunglasses:
@@ -54,8 +64,11 @@
 * https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
 * https://github.com/simplonco/sql-first-steps
 * https://github.com/simplonco/symfony-training
+* https://www.grafikart.fr/formations/php
 * http://www.lephpfacile.com/cours/
 * http://sql.sh/
+
+http://www.fran6art.com/wordpress/creez-votre-theme-wordpress-de-a-a-z/
 
 _To be continued.._
 
@@ -63,12 +76,26 @@ _To be continued.._
 
 ### PHP Setup :tada:!
 
-```markdown
+```shell
 # Install LAMP
-sudo apt-get install tasksel
+sudo apt-get install tasksel php
 sudo tasksel install lamp-server
-# Fix a permission issue
+# Fix permission issues
+sudo adduser $(whoami) www-data
 sudo chown -R www-data:www-data /var/www
+sudo chmod -R g+rwx /var/www/
+# Finally: don't forget to login / logout
+```
+
+### Read apache2 logs
+
+```shell
+# Switch to root
+sudo su
+# Go in the apache2 logs folder
+cd /var/log/apache2/
+# Display all logs
+tail -f *.log
 ```
 
 ### What's mean LAMP?
