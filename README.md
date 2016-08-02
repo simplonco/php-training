@@ -13,6 +13,9 @@
 ## Project
 
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
+* [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._
+* [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_
+* [Portfolio](https://github.com/simplonco/portfolio/) _Create a beautiful Portfolio using GitHub pages_
 
 ## Resources
 
