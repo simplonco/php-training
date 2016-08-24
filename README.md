@@ -1,21 +1,21 @@
 # PHP
->_[Training](https://github.com/simplonco/training) / PHP_
+>_[Training](https://gitlab.com/simplon-co/training) / PHP_
 
 ![PHP](php.png)
 
 ## Exercises
 
-* [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
-* [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
-* [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
-* [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
+* [Introduction to programming](https://gitlab.com/simplon-co/php-introduction) (PHP) :elephant:
+* [Cooking data with PHP](https://gitlab.com/simplon-co/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
+* [Send Mail Form](https://gitlab.com/simplon-co/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
+* [Challenges](https://gitlab.com/simplon-co/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Project
 
-* [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
-* [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._
-* [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_
-* [Portfolio](https://github.com/simplonco/portfolio/) _Create a beautiful Portfolio using GitHub pages_
+* [MiniChat II - The Return](https://gitlab.com/simplon-co/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
+* [Fork](https://gitlab.com/simplon-co/fork) _Choose your learning path for the next months.._
+* [Galactic Space Combat](https://gitlab.com/simplon-co/galactic-space-combat) _Un projet interpromo d'une semaine !_
+* [Portfolio](https://gitlab.com/simplon-co/portfolio/) _Create a beautiful Portfolio using GitHub pages_
 
 ## Resources
 
@@ -65,8 +65,8 @@
 
 * https://docs.google.com/a/simplon.co/document/d/1RvkdTdjyl0Z6mY5cU-DV0y39BJNkgUC_Gwcb0KySmiI
 * https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
-* https://github.com/simplonco/sql-first-steps
-* https://github.com/simplonco/symfony-training
+* https://gitlab.com/simplon-co/sql-first-steps
+* https://gitlab.com/simplon-co/symfony-training
 * https://www.grafikart.fr/formations/php
 * http://www.lephpfacile.com/cours/
 * http://sql.sh/
