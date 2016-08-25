@@ -5,10 +5,9 @@
 
 ## Exercises
 
-* [Introduction to programming](https://gitlab.com/simplon-co/php-introduction) (PHP) :elephant:
+* [Challenges](https://gitlab.com/simplon-co/php-introduction) (PHP) :elephant:
 * [Cooking data with PHP](https://gitlab.com/simplon-co/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
 * [Send Mail Form](https://gitlab.com/simplon-co/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
-* [Challenges](https://gitlab.com/simplon-co/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Project
 
