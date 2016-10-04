@@ -13,7 +13,7 @@
 * [Authentification](https://github.com/simplonco/php-challenge-auth) _Create a user system_
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 * [MVC](https://github.com/simplonco/php-training/wiki/MVC---Training) _Discover the Model View Controller_
-* [POO Helpers Class](https://github.com/simplonco/php-training/wiki/Activit%C3%A9-POO:-Helpers-Class) _Avoid code redundancy _
+* [POO Helpers Class](https://github.com/simplonco/php-training/wiki/Activit%C3%A9-POO:-Helpers-Class) _Avoid code redundancy_
 
 ## Project
 
