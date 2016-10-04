@@ -6,14 +6,18 @@
 ## Exercises
 
 * [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
+* [PHP Recall](https://github.com/simplonco/php-training-base) _Review the basics of PHP_
 * [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
+* [MySQL CRUD](https://github.com/simplonco/php-training-mysql) _Understanding the database_
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
+* [MVC](https://github.com/simplonco/php-training/wiki/MVC---Training) _Discover the **M**odel **V**iew **C**ontroller.
 
 ## Project
 
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
 * [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._
+* [Authentification](https://github.com/simplonco/php-challenge-auth) _Create a user system_
 * [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_
 * [Portfolio](https://github.com/simplonco/portfolio/) _Create a beautiful Portfolio using GitHub pages_
 
