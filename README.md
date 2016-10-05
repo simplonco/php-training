@@ -14,6 +14,9 @@
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 * [MVC](https://github.com/simplonco/php-training/wiki/MVC---Training) _Discover the Model View Controller_
 * [POO Helpers Class](https://github.com/simplonco/php-training/wiki/Activit%C3%A9-POO:-Helpers-Class) _Avoid code redundancy_
+* [CRUD - 1](https://github.com/simplonco/php-exercises-crud1) _CRUD parti one_
+* [CRUD - 2](https://github.com/simplonco/php-exercises-crud2) _CRUD parti two_
+* [CRUD - FINAL](https://github.com/simplonco/php-exercises-crudTP) _CRUD final TP_ :muscle:
 
 ## Project
 
