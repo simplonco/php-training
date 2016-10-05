@@ -9,15 +9,9 @@
 * [PHP Recall](https://github.com/simplonco/php-training-base) _Review the basics of PHP_
 * [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
-* [MySQL CRUD](https://github.com/simplonco/php-training-mysql) _Understanding the database_
-* [Authentification](https://github.com/simplonco/php-challenge-auth) _Create a user system_
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 * [MVC](https://github.com/simplonco/php-training/wiki/MVC---Training) _Discover the Model View Controller_
 * [POO Helpers Class](https://github.com/simplonco/php-training/wiki/Activit%C3%A9-POO:-Helpers-Class) _Avoid code redundancy_
-* [CRUD - 1](https://github.com/simplonco/php-exercises-crud1) _CRUD parti one_
-* [CRUD - 2](https://github.com/simplonco/php-exercises-crud2) _CRUD parti two_
-* [CRUD - FINAL](https://github.com/simplonco/php-exercises-crudTP) _CRUD final TP_ :muscle:
-
 ## Project
 
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
