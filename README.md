@@ -12,6 +12,8 @@
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 * [MVC](https://github.com/simplonco/php-training/wiki/MVC---Training) _Discover the Model View Controller_
 * [POO Helpers Class](https://github.com/simplonco/php-training/wiki/Activit%C3%A9-POO:-Helpers-Class) _Avoid code redundancy_
+* [The variables](https://github.com/simplonco/php-training-variable) _Starting php with the variables_
+
 ## Project
 
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
