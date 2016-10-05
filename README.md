@@ -12,7 +12,17 @@
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 * [MVC](https://github.com/simplonco/php-training/wiki/MVC---Training) _Discover the Model View Controller_
 * [POO Helpers Class](https://github.com/simplonco/php-training/wiki/Activit%C3%A9-POO:-Helpers-Class) _Avoid code redundancy_
-* [The variables](https://github.com/simplonco/php-training-variable) _Starting php with the variables_
+* [The variables](https://github.com/simplonco/php-exercises-variable) _Starting php with the variables_
+* [The circumstances](https://github.com/simplonco/php-exercises-circumstances) _Starting php with the circumstances_
+* [The loop](https://github.com/simplonco/php-exercises-loop) _Starting php with the loop_
+* [The function](https://github.com/simplonco/php-exercises-function) _Starting php with the function_
+* [The array](https://github.com/simplonco/php-exercises-array) _Starting php with the array_
+* [The parameters](https://github.com/simplonco/php-exercises-paramUrl) _Starting php with the parameters_
+* [The forms](https://github.com/simplonco/php-exercises-form) _Starting php with the forms_
+* [The global variable, $session](https://github.com/simplonco/php-exercises-globalVariable) _Starting php with the session and global variable_
+* [The date](https://github.com/simplonco/php-exercises-date) _Starting php with the date_
+
+
 
 ## Project
 
