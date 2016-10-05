@@ -15,8 +15,6 @@
 * [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
 * [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
-* [MVC](https://github.com/simplonco/php-training/wiki/MVC---Training) _Discover the Model View Controller_
-* [POO Helpers Class](https://github.com/simplonco/php-training/wiki/Activit%C3%A9-POO:-Helpers-Class) _Avoid code redundancy_
 * [The variables](https://github.com/simplonco/php-exercises-variable) _Starting php with the variables_
 * [The circumstances](https://github.com/simplonco/php-exercises-circumstances) _Starting php with the circumstances_
 * [The loop](https://github.com/simplonco/php-exercises-loop) _Starting php with the loop_
