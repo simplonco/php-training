@@ -3,6 +3,11 @@
 
 ![PHP](php.png)
 
+## Training
+
+* [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
+* [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
+
 ## Exercises
 
 * [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
