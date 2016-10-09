@@ -8,13 +8,8 @@
 * [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
 * [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
 
-## Exercises
+## Starters
 
-* [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
-* [PHP Recall](https://github.com/simplonco/php-training-base) _Review the basics of PHP_
-* [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
-* [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
-* [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 * [The variables](https://github.com/simplonco/php-exercises-variable) _Starting php with the variables_
 * [The circumstances](https://github.com/simplonco/php-exercises-circumstances) _Starting php with the circumstances_
 * [The loop](https://github.com/simplonco/php-exercises-loop) _Starting php with the loop_
@@ -25,7 +20,16 @@
 * [The global variable, $session](https://github.com/simplonco/php-exercises-globalVariable) _Starting php with the session and global variable_
 * [The date](https://github.com/simplonco/php-exercises-date) _Starting php with the date_
 
-## Project
+## Exercises
+
+* [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
+* [PHP Recall](https://github.com/simplonco/php-training-base) _Review the basics of PHP_
+* [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
+* [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
+* [Chocolate cookies](https://github.com/simplonco/chocolate-cookies)
+* [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
+
+## Projects
 
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
 * [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._
