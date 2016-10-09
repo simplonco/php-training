@@ -25,14 +25,13 @@
 * [The global variable, $session](https://github.com/simplonco/php-exercises-globalVariable) _Starting php with the session and global variable_
 * [The date](https://github.com/simplonco/php-exercises-date) _Starting php with the date_
 
-
-
 ## Project
 
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
 * [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._
 * [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_
 * [Portfolio](https://github.com/simplonco/portfolio/) _Create a beautiful Portfolio using GitHub pages_
+* [Push to production like a PRO!](https://github.com/simplonco/push-me-to-prod-like-a-pro) _Learn how to put a real app online_
 
 ## Resources
 
