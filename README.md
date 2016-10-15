@@ -5,10 +5,10 @@
 
 ## Subsections
 
-* **[POO](https://github.com/simplonco/poo-training)**
-* **[PDO](https://github.com/simplonco/pdo-training)**
-* **[Symfony](https://github.com/simplonco/symfony-training)**
-* **[Wordpress](https://github.com/simplonco/wordpress-training)**
+* _Training / PHP / **[POO](https://github.com/simplonco/poo-training)**_
+* _Training / PHP / **[PDO](https://github.com/simplonco/pdo-training)**_
+* _Training / PHP / **[Symfony](https://github.com/simplonco/symfony-training)**_
+* _Training / PHP / **[Wordpress](https://github.com/simplonco/wordpress-training)**_
 
 ## Training
 
