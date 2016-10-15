@@ -3,6 +3,13 @@
 
 ![PHP](php.png)
 
+## Subsections
+
+* **[POO](https://github.com/simplonco/poo-training)**
+* **[PDO](https://github.com/simplonco/pdo-training)**
+* **[Symfony](https://github.com/simplonco/symfony-training)**
+* **[Wordpress](https://github.com/simplonco/wordpress-training)**
+
 ## Training
 
 * [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
@@ -34,7 +41,6 @@
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
 * [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._
 * [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_
-* [Portfolio](https://github.com/simplonco/portfolio/) _Create a beautiful Portfolio using GitHub pages_
 * [Push to production like a PRO!](https://github.com/simplonco/push-me-to-prod-like-a-pro) _Learn how to put a real app online_
 
 ## Resources
