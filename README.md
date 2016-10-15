@@ -15,6 +15,11 @@
 * [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
 * [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
 
+### TODO
+
+* https://github.com/simplonco/php-training-ajax
+* https://github.com/simplonco/php-simplonreunion
+
 ## Starters
 
 * [The variables](https://github.com/simplonco/php-exercises-variable) _Starting php with the variables_
