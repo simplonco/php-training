@@ -54,11 +54,6 @@
 * Install PHPMyAdmin [Français :fr:](https://doc.ubuntu-fr.org/phpmyadmin) / [English :gb](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
 
 
-### OpenClassrooms
-
-* [Concevez votre site web avec PHP et MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) :fr:
-* [Programmez en orienté objet en PHP](https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php) :fr:
-
 ### POO
 
 * http://creersonsiteweb.net/page-php-programmation-orientee-objet
