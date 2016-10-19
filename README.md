@@ -12,13 +12,9 @@
 
 ## Training
 
-* [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
-* [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
+* `PDF` [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
+* `PDF` [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
 
-### TODO
-
-* https://github.com/simplonco/php-training-ajax
-* https://github.com/simplonco/php-simplonreunion
 
 ## Starters
 
@@ -43,40 +39,20 @@
 
 ## Projects
 
-* [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_
-* [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._
-* [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_
-* [Push to production like a PRO!](https://github.com/simplonco/push-me-to-prod-like-a-pro) _Learn how to put a real app online_
-
-### ATS-SPC _(Montreuil - Promo 5)_
-
-* https://github.com/simplonco/ATS-SPC-A
-* https://github.com/simplonco/ATS-SPC-B
-* https://github.com/simplonco/ATS-SPC-C
-* https://github.com/simplonco/ATS-SPC-D
+* [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_ :fr: :gb:
+* [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._ :gb:
+* [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_ :fr:
+* [Push to production like a PRO!](https://github.com/simplonco/push-me-to-prod-like-a-pro) _Learn how to put a real app online_ :gb:
+* ATS-SPC [Group A](https://github.com/simplonco/ATS-SPC-A) / [Group B](https://github.com/simplonco/ATS-SPC-B) / [Group C](https://github.com/simplonco/ATS-SPC-C) / [Group D](https://github.com/simplonco/ATS-SPC-D) :gb:
 
 ## Resources
 
-### Official Documentation
+* Official Documentation [Français :fr:](http://php.net/manual/fr/index.php) / [English :gb:](http://php.net/manual/en/index.php)
+* PHP in Y minutes [Français :fr:](https://learnxinyminutes.com/docs/fr-fr/php/) / [English :gb:](https://learnxinyminutes.com/docs/php/)
+* Big Books: [The Right Way](http://www.phptherightway.com/) :gb:
+* Install LAMP [Français :fr:](https://doc.ubuntu-fr.org/lamp) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) & Install [LLMP :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-the-llmp-stack-linux-lighttpd-mysql-and-php-on-ubuntu-12-04)
+* Install PHPMyAdmin [Français :fr:](https://doc.ubuntu-fr.org/phpmyadmin) / [English :gb](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
 
-* [The PHP Official Manual](http://php.net/manual/en/index.php) :gb:
-* [Le Manuel PHP Officiel](http://php.net/manual/fr/index.php) :fr:
-
-### Big Books
-
-* [PHP The Right Way](http://www.phptherightway.com/) :gb:
-
-### Learn X in Y minutes
-
-* [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/) :gb:
-* [Apprendre PHP en Y minutes](https://learnxinyminutes.com/docs/fr-fr/php/) :fr:
-
-### Digital Ocean Tutorials
-
-* [How to install LAMP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) :gb:
-* [How to install LLMP](https://www.digitalocean.com/community/tutorials/how-to-install-the-llmp-stack-linux-lighttpd-mysql-and-php-on-ubuntu-12-04) :gb:
-* [How To Change Your PHP Settings](https://www.digitalocean.com/community/tutorials/how-to-change-your-php-settings-on-ubuntu-14-04) :gb:
-* [How to install PHPMyAdmin](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04) :gb:
 
 ### OpenClassrooms
 
