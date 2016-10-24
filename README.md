@@ -1,6 +1,8 @@
 # PHP
 >_[Training](https://github.com/simplonco/training) / PHP_
 
+# TODOS ! (Légende et rangement)
+
 ![PHP](php.png)
 
 ## Subsections
