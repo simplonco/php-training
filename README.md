@@ -41,6 +41,8 @@
 
 #### TDD Challenges
 
+> TDD exercices validated by Travis CI (cool for algorithms teaching), was imported from exercism.io
+
 * :trophy: [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Projects
