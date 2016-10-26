@@ -51,7 +51,7 @@
 * [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._ :gb:
 * [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_ :fr:
 * [Push to production like a PRO!](https://github.com/simplonco/push-me-to-prod-like-a-pro) _Learn how to put a real app online_ :gb:
-* ATS-SPC [Group A](https://github.com/simplonco/ATS-SPC-A) / [Group B](https://github.com/simplonco/ATS-SPC-B) / [Group C](https://github.com/simplonco/ATS-SPC-C) / [Group D](https://github.com/simplonco/ATS-SPC-D) :gb:
+* ATS-SPC: [Group A](https://github.com/simplonco/ATS-SPC-A) / [Group B](https://github.com/simplonco/ATS-SPC-B) / [Group C](https://github.com/simplonco/ATS-SPC-C) / [Group D](https://github.com/simplonco/ATS-SPC-D) :gb:
 
 ## Resources
 
@@ -61,7 +61,7 @@
 * PHP in Y minutes [Français :fr:](https://learnxinyminutes.com/docs/fr-fr/php/) / [English :gb:](https://learnxinyminutes.com/docs/php/)
 * Big Books: [The Right Way](http://www.phptherightway.com/) :gb:
 * Install LAMP [Français :fr:](https://doc.ubuntu-fr.org/lamp) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) & Install [LLMP :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-the-llmp-stack-linux-lighttpd-mysql-and-php-on-ubuntu-12-04)
-* Install PHPMyAdmin [Français :fr:](https://doc.ubuntu-fr.org/phpmyadmin) / [English :gb](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
+* Install PHPMyAdmin [Français :fr:](https://doc.ubuntu-fr.org/phpmyadmin) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
 
 ### POO
 
