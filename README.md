@@ -37,7 +37,7 @@
 * [PHP Recall](https://github.com/simplonco/php-training-base) _Review the basics of PHP_
 * [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
-* [Chocolate cookies](https://github.com/simplonco/chocolate-cookies)
+* [Chocolate cookies](https://github.com/simplonco/chocolate-cookies) :cookie:
 
 #### TDD Challenges
 
