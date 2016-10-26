@@ -8,10 +8,10 @@
 > * _Training / PHP / **[Symfony](https://github.com/simplonco/symfony-training)**_
 > * _Training / PHP / **[Wordpress](https://github.com/simplonco/wordpress-training)**_
 
-## Training
+## Courses
 
-* `PDF` [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
-* `PDF` [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
+* `pdf` [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
+* `pdf` [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
 
 ## Starters
 
