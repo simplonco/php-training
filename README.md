@@ -79,15 +79,15 @@
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
 * [Nuclide](https://nuclide.io/)
 
-### Google Docs, GitHub & Miscellanous (Work in Progress)
-
-* https://docs.google.com/a/simplon.co/document/d/1RvkdTdjyl0Z6mY5cU-DV0y39BJNkgUC_Gwcb0KySmiI
-* https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
-* https://github.com/simplonco/sql-first-steps
-* https://github.com/simplonco/symfony-training
-* https://www.grafikart.fr/formations/php
-* http://www.lephpfacile.com/cours/
-* http://sql.sh/
-* http://www.fran6art.com/wordpress/creez-votre-theme-wordpress-de-a-a-z/
+> ### [Work in Progress] Google Docs, GitHub & Miscellanous
+> 
+> * https://docs.google.com/a/simplon.co/document/d/1RvkdTdjyl0Z6mY5cU-DV0y39BJNkgUC_Gwcb0KySmiI
+> * https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
+> * https://github.com/simplonco/sql-first-steps
+> * https://github.com/simplonco/symfony-training
+> * https://www.grafikart.fr/formations/php
+> * http://www.lephpfacile.com/cours/
+> * http://sql.sh/
+> * http://www.fran6art.com/wordpress/creez-votre-theme-wordpress-de-a-a-z/
 
 _To be continued.._
