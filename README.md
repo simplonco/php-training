@@ -39,7 +39,7 @@
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
 * [Chocolate cookies](https://github.com/simplonco/chocolate-cookies)
 
-## TDD Challenges
+### TDD Challenges
 
 * :trophy: [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
@@ -88,7 +88,6 @@
 * https://www.grafikart.fr/formations/php
 * http://www.lephpfacile.com/cours/
 * http://sql.sh/
-
-http://www.fran6art.com/wordpress/creez-votre-theme-wordpress-de-a-a-z/
+* http://www.fran6art.com/wordpress/creez-votre-theme-wordpress-de-a-a-z/
 
 _To be continued.._
