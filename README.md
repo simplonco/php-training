@@ -1,8 +1,6 @@
 # PHP
 >_[Training](https://github.com/simplonco/training) / PHP_
 
-![PHP](php.png)
-
 ## Subsections
 
 * _Training / PHP / **[POO](https://github.com/simplonco/poo-training)**_
