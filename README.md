@@ -1,12 +1,9 @@
 # PHP
 >_[Training](https://github.com/simplonco/training) / PHP_
 
-# TODOS ! (Légende et rangement)
-
 ![PHP](php.png)
 
 ## Subsections
-
 
 * _Training / PHP / **[POO](https://github.com/simplonco/poo-training)**_
 * _Training / PHP / **[PDO](https://github.com/simplonco/pdo-training)**_
@@ -15,11 +12,8 @@
 
 ## Training
 
-> Root of GitLab repository for a technology - modules
-
 * `PDF` [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
 * `PDF` [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
-
 
 ## Starters
 
@@ -44,7 +38,10 @@
 * [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
 * [Chocolate cookies](https://github.com/simplonco/chocolate-cookies)
-* [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
+
+## TDD Challenges
+
+* :trophy: [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Projects
 
@@ -65,7 +62,6 @@
 * Big Books: [The Right Way](http://www.phptherightway.com/) :gb:
 * Install LAMP [Français :fr:](https://doc.ubuntu-fr.org/lamp) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) & Install [LLMP :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-the-llmp-stack-linux-lighttpd-mysql-and-php-on-ubuntu-12-04)
 * Install PHPMyAdmin [Français :fr:](https://doc.ubuntu-fr.org/phpmyadmin) / [English :gb](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
-
 
 ### POO
 
