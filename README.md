@@ -31,7 +31,7 @@
 
 ## Exercises
 
-> Exercices given without automated validation, with just a short subject / explanation
+> Exercices given without automated validation, with just a short explanation
 
 * [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
 * [PHP Recall](https://github.com/simplonco/php-training-base) _Review the basics of PHP_
@@ -45,7 +45,7 @@
 
 ## Projects
 
-> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
+> Long project activity, without tutorial, but some functional specifications, to engage students autonomy
 
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_ :fr: :gb:
 * [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._ :gb:
@@ -55,7 +55,7 @@
 
 ## Resources
 
-> Currated list of external urls - ressources
+> Currated list of external ressources
 
 * Official Documentation [Français :fr:](http://php.net/manual/fr/index.php) / [English :gb:](http://php.net/manual/en/index.php)
 * PHP in Y minutes [Français :fr:](https://learnxinyminutes.com/docs/fr-fr/php/) / [English :gb:](https://learnxinyminutes.com/docs/php/)
