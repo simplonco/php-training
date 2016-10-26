@@ -39,7 +39,7 @@
 * [Send Mail Form](https://github.com/simplonco/php-send-mail-form) _Send mails with a simple HTML form and a PHP backend! :mailbox:_
 * [Chocolate cookies](https://github.com/simplonco/chocolate-cookies)
 
-### TDD Challenges
+#### TDD Challenges
 
 * :trophy: [Challenges](https://github.com/simplonco/php-challenges) _It will maybe hurt a bit, but for your good! :cactus:_
 
@@ -63,25 +63,14 @@
 * Install LAMP [Français :fr:](https://doc.ubuntu-fr.org/lamp) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) & Install [LLMP :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-the-llmp-stack-linux-lighttpd-mysql-and-php-on-ubuntu-12-04)
 * Install PHPMyAdmin [Français :fr:](https://doc.ubuntu-fr.org/phpmyadmin) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
 
-### Awesome lists
+#### Awesome lists
 
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) :sunglasses:
 * [Awesome Composer](https://github.com/jakoch/awesome-composer) :sunglasses:
 
-### IDEs
+#### IDEs
 
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
 * [Nuclide](https://nuclide.io/)
-
-> ### [Work in Progress] Google Docs, GitHub & Miscellanous
-> 
-> * https://docs.google.com/a/simplon.co/document/d/1RvkdTdjyl0Z6mY5cU-DV0y39BJNkgUC_Gwcb0KySmiI
-> * https://docs.google.com/document/d/1wIrS26TAZYIFIJ8o11sj-ZvhgbVgBlTdyN8-41RiZ_0
-> * https://github.com/simplonco/sql-first-steps
-> * https://github.com/simplonco/symfony-training
-> * https://www.grafikart.fr/formations/php
-> * http://www.lephpfacile.com/cours/
-> * http://sql.sh/
-> * http://www.fran6art.com/wordpress/creez-votre-theme-wordpress-de-a-a-z/
 
 _To be continued.._
