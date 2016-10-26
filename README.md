@@ -47,7 +47,7 @@
 
 ## Projects
 
-> Long project activity, without tutorial, but some functional specifications, to engage students autonomy
+> Long project activity, without tutorial, but with some functional specifications, to engage students autonomy
 
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_ :fr: :gb:
 * [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._ :gb:
