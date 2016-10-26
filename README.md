@@ -7,6 +7,7 @@
 
 ## Subsections
 
+
 * _Training / PHP / **[POO](https://github.com/simplonco/poo-training)**_
 * _Training / PHP / **[PDO](https://github.com/simplonco/pdo-training)**_
 * _Training / PHP / **[Symfony](https://github.com/simplonco/symfony-training)**_
@@ -14,11 +15,15 @@
 
 ## Training
 
+> Root of GitLab repository for a technology - modules
+
 * `PDF` [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
 * `PDF` [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
 
 
 ## Starters
+
+> Short ressources to engage your training
 
 * [The variables](https://github.com/simplonco/php-exercises-variable) _Starting php with the variables_
 * [The circumstances](https://github.com/simplonco/php-exercises-circumstances) _Starting php with the circumstances_
@@ -32,6 +37,8 @@
 
 ## Exercises
 
+> Exercices given without automated validation, with just a short subject / explanation
+
 * [Introduction to programming](https://github.com/simplonco/php-introduction) (PHP) :elephant:
 * [PHP Recall](https://github.com/simplonco/php-training-base) _Review the basics of PHP_
 * [Cooking data with PHP](https://github.com/simplonco/php-cooking-data) _Learn how to play with the dictionary and an example dataset of movies in PHP! :egg:_
@@ -41,6 +48,8 @@
 
 ## Projects
 
+> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
+
 * [MiniChat II - The Return](https://github.com/simplonco/project-minichat-II-the-return/) _RrrRrrRrrRrr RrrRrr Rrr :cat:_ :fr: :gb:
 * [Fork](https://github.com/simplonco/fork) _Choose your learning path for the next months.._ :gb:
 * [Galactic Space Combat](https://github.com/simplonco/galactic-space-combat) _Un projet interpromo d'une semaine !_ :fr:
@@ -48,6 +57,8 @@
 * ATS-SPC [Group A](https://github.com/simplonco/ATS-SPC-A) / [Group B](https://github.com/simplonco/ATS-SPC-B) / [Group C](https://github.com/simplonco/ATS-SPC-C) / [Group D](https://github.com/simplonco/ATS-SPC-D) :gb:
 
 ## Resources
+
+> Currated list of external urls - ressources
 
 * Official Documentation [Français :fr:](http://php.net/manual/fr/index.php) / [English :gb:](http://php.net/manual/en/index.php)
 * PHP in Y minutes [Français :fr:](https://learnxinyminutes.com/docs/fr-fr/php/) / [English :gb:](https://learnxinyminutes.com/docs/php/)
