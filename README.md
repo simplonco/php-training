@@ -63,12 +63,6 @@
 * Install LAMP [Français :fr:](https://doc.ubuntu-fr.org/lamp) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04) & Install [LLMP :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-the-llmp-stack-linux-lighttpd-mysql-and-php-on-ubuntu-12-04)
 * Install PHPMyAdmin [Français :fr:](https://doc.ubuntu-fr.org/phpmyadmin) / [English :gb:](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-16-04)
 
-### POO
-
-* http://creersonsiteweb.net/page-php-programmation-orientee-objet
-* http://www.bestcours.com/525-pdf-php-programmation-objet-telecharger
-* http://www.tutorialspoint.com/php/php_object_oriented.htm
-
 ### Awesome lists
 
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) :sunglasses:
