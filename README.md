@@ -10,8 +10,8 @@
 
 ## Courses
 
-* `pdf` [PHP Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-PHP-Introduction.pdf) _Fundamental of PHP_ :elephant:
-* `pdf` [MySQL Basics](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf) _Fundamental of MySQL_
+* `pdf` [PHP Basics](https://github.com/simplonco/php-training/blob/master/PDF/Tutoriel PHP Introduction.pdf) _Fundamental of PHP_ :elephant:
+* `pdf` [MySQL Basics](https://github.com/simplonco/php-training/blob/master/PDF/Tutoriel MySQL Introduction.pdf) _Fundamental of MySQL_
 
 ## Starters
 
