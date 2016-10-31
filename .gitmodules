@@ -1,0 +1,72 @@
+[submodule "starters/php-exercises-variable"]
+	path = starters/php-exercises-variable
+	url = https://github.com/simplonco/php-exercises-variable
+[submodule "starters/php-exercises-circumstances"]
+	path = starters/php-exercises-circumstances
+	url = https://github.com/simplonco/php-exercises-circumstances
+[submodule "starters/php-exercises-loop"]
+	path = starters/php-exercises-loop
+	url = https://github.com/simplonco/php-exercises-loop
+[submodule "starters/php-exercises-function"]
+	path = starters/php-exercises-function
+	url = https://github.com/simplonco/php-exercises-function
+[submodule "starters/php-exercises-array"]
+	path = starters/php-exercises-array
+	url = https://github.com/simplonco/php-exercises-array
+[submodule "starters/php-exercises-paramUrl"]
+	path = starters/php-exercises-paramUrl
+	url = https://github.com/simplonco/php-exercises-paramUrl
+[submodule "starters/php-exercises-form"]
+	path = starters/php-exercises-form
+	url = https://github.com/simplonco/php-exercises-form
+[submodule "starters/php-exercises-globalVariable"]
+	path = starters/php-exercises-globalVariable
+	url = https://github.com/simplonco/php-exercises-globalVariable
+[submodule "starters/php-exercises-date"]
+	path = starters/php-exercises-date
+	url = https://github.com/simplonco/php-exercises-date
+[submodule "exercises/php-training-base"]
+	path = exercises/php-training-base
+	url = https://github.com/simplonco/php-training-base
+[submodule "exercises/php-introduction"]
+	path = exercises/php-introduction
+	url = https://github.com/simplonco/php-introduction
+[submodule "exercises/php-send-mail-form"]
+	path = exercises/php-send-mail-form
+	url = https://github.com/simplonco/php-send-mail-form
+[submodule "exercises/php-cooking-data"]
+	path = exercises/php-cooking-data
+	url = https://github.com/simplonco/php-cooking-data
+[submodule "exercises/chocolate-cookies"]
+	path = exercises/chocolate-cookies
+	url = https://github.com/simplonco/chocolate-cookies
+[submodule "projects/fork"]
+	path = projects/fork
+	url = https://github.com/simplonco/fork
+[submodule "projects/galactic-space-combat"]
+	path = projects/galactic-space-combat
+	url = https://github.com/simplonco/galactic-space-combat
+[submodule "projects/project-minichat-II-the-return"]
+	path = projects/project-minichat-II-the-return
+	url = https://github.com/simplonco/project-minichat-II-the-return
+[submodule "projects/push-me-to-prod-like-a-pro"]
+	path = projects/push-me-to-prod-like-a-pro
+	url = https://github.com/simplonco/push-me-to-prod-like-a-pro
+[submodule "php-poo-training"]
+	path = php-poo-training
+	url = https://github.com/simplonco/php-poo-training
+[submodule "php-pdo-training"]
+	path = php-pdo-training
+	url = https://github.com/simplonco/php-pdo-training
+[submodule "symfony-training"]
+	path = symfony-training
+	url = https://github.com/simplonco/symfony-training
+[submodule "wordpress-training"]
+	path = wordpress-training
+	url = https://github.com/simplonco/wordpress-training
+[submodule "exercises/sql-first-steps"]
+	path = exercises/sql-first-steps
+	url = https://github.com/simplonco/sql-first-steps
+[submodule "challenges/php-challenges"]
+	path = challenges/php-challenges
+	url = https://github.com/simplonco/php-challenges
