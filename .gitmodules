@@ -70,3 +70,15 @@
 [submodule "challenges/php-challenges"]
 	path = challenges/php-challenges
 	url = https://github.com/simplonco/php-challenges
+[submodule "subsections/poo"]
+	path = subsections/poo
+	url = https://github.com/simplonco/php-poo-training
+[submodule "subsections/pdo"]
+	path = subsections/pdo
+	url = https://github.com/simplonco/php-pdo-training
+[submodule "subsections/symfony"]
+	path = subsections/symfony
+	url = https://github.com/simplonco/symfony-training
+[submodule "subsections/wordpress"]
+	path = subsections/wordpress
+	url = https://github.com/simplonco/wordpress-training
