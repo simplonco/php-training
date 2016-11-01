@@ -52,17 +52,17 @@
 [submodule "projects/push-me-to-prod-like-a-pro"]
 	path = projects/push-me-to-prod-like-a-pro
 	url = https://github.com/simplonco/push-me-to-prod-like-a-pro
-[submodule "php-poo-training"]
-	path = php-poo-training
+[submodule "subsections/php-poo-training"]
+	path = subsections/php-poo-training
 	url = https://github.com/simplonco/php-poo-training
-[submodule "php-pdo-training"]
-	path = php-pdo-training
+[submodule "subsections/php-pdo-training"]
+	path = subsections/php-pdo-training
 	url = https://github.com/simplonco/php-pdo-training
-[submodule "symfony-training"]
-	path = symfony-training
+[submodule "subsections/symfony-training"]
+	path = subsections/symfony-training
 	url = https://github.com/simplonco/symfony-training
-[submodule "wordpress-training"]
-	path = wordpress-training
+[submodule "subsections/wordpress-training"]
+	path = subsections/wordpress-training
 	url = https://github.com/simplonco/wordpress-training
 [submodule "exercises/sql-first-steps"]
 	path = exercises/sql-first-steps
